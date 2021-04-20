@@ -1,5 +1,5 @@
 # Vislice
 Program za igranje vislic pri predmetu UVP
 
-#Avtor
+# Avtor
 AVtor tega repozitorija je JK
